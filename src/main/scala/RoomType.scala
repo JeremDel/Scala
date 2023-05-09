@@ -1,0 +1,1 @@
+//contient les définitions de RoomType et EntireHome
