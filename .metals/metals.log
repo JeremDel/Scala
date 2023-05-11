@@ -4111,3 +4111,8 @@ mai 09, 2023 8:12:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellat
 WARNING: Unmatched cancel notification for request id 872
 2023.05.09 20:13:13 INFO  compiling scala (1 scala source)
 2023.05.09 20:13:13 INFO  time: compiled scala in 0.14s
+2023.05.09 20:21:40 INFO  Shutting down server
+2023.05.09 20:21:40 INFO  shutting down Metals
+2023.05.09 20:21:40 INFO  Shut down connection with build server.
+2023.05.09 20:21:40 INFO  Shut down connection with build server.
+2023.05.09 20:21:40 INFO  Exiting server
