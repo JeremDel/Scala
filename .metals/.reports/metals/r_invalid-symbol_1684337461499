@@ -1,0 +1,3 @@
+Symbol: models/CsvLoader.loadCsv().$anonfun().location.
+Error message: models/CsvLoader.loadCsv().$anonfun().location.
+Error: scala.meta.internal.mtags.IndexingExceptions$InvalidSymbolException: models/CsvLoader.loadCsv().$anonfun().location.

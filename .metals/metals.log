@@ -4116,3 +4116,620 @@ WARNING: Unmatched cancel notification for request id 872
 2023.05.09 20:21:40 INFO  Shut down connection with build server.
 2023.05.09 20:21:40 INFO  Shut down connection with build server.
 2023.05.09 20:21:40 INFO  Exiting server
+2023.05.11 16:10:39 INFO  Started: Metals version 0.11.12 in workspace 'C:\Users\jerem\Desktop\HES\Semestre_6\Scala' for client Visual Studio Code 1.78.1.
+mai 11, 2023 4:10:39 PM org.flywaydb.core.internal.license.VersionPrinter printVersionOnly
+INFO: Flyway Community Edition 9.16.3 by Redgate
+mai 11, 2023 4:10:39 PM org.flywaydb.core.internal.license.VersionPrinter printVersion
+INFO: See release notes here: https://rd.gt/416ObMi
+mai 11, 2023 4:10:39 PM org.flywaydb.core.internal.license.VersionPrinter printVersion
+INFO: 
+mai 11, 2023 4:10:40 PM org.flywaydb.core.internal.database.base.BaseDatabaseType createDatabase
+INFO: Database: jdbc:h2:file:C:\Users\jerem\Desktop\HES\Semestre_6\Scala\.metals\metals (H2 2.1)
+mai 11, 2023 4:10:40 PM org.flywaydb.core.internal.command.DbValidate validate
+INFO: Successfully validated 4 migrations (execution time 00:00.030s)
+mai 11, 2023 4:10:40 PM org.flywaydb.core.internal.command.DbMigrate migrateGroup
+INFO: Current version of schema "PUBLIC": 4
+mai 11, 2023 4:10:40 PM org.flywaydb.core.internal.command.DbMigrate logSummary
+INFO: Schema "PUBLIC" is up to date. No migration necessary.
+2023.05.11 16:10:40 INFO  time: initialize in 0.6s
+2023.05.11 16:10:42 INFO  Attempting to connect to the build server...
+2023.05.11 16:10:42 INFO  Bloop uses C:\Program Files\Java\jdk-15.0.2 defined at C:\Users\jerem\.bloop\bloop.json
+2023.05.11 16:10:42 INFO  skipping build import with status 'Installed'
+2023.05.11 16:10:48 INFO  no build target found for C:\Users\jerem\Desktop\HES\Semestre_6\Scala\src\main\scala\RoomType.scala. Using presentation compiler with project's scala-library version: 3.2.2
+2023.05.11 16:10:49 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\jerem\Desktop\HES\Semestre_6\Scala\.metals\bsp.trace.json or C:\Users\jerem\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2023.05.11 16:10:49 INFO  Attempting to connect to the build server...
+2023.05.11 16:10:49 INFO  Bloop uses C:\Program Files\Java\jdk-15.0.2 defined at C:\Users\jerem\.bloop\bloop.json
+2023.05.11 16:10:49 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\jerem\Desktop\HES\Semestre_6\Scala\project\.metals\bsp.trace.json or C:\Users\jerem\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2023.05.11 16:10:49 INFO  time: Connected to build server in 7.91s
+2023.05.11 16:10:49 INFO  Connected to Build server: Bloop v1.5.6
+2023.05.11 16:10:50 INFO  time: code lens generation in 6.45s
+2023.05.11 16:10:49 INFO  time: Imported build in 0.2s
+2023.05.11 16:10:53 INFO  time: indexed workspace in 3.24s
+2023.05.11 16:29:06 INFO  compiling scala (1 scala source)
+2023.05.11 16:29:08 INFO  time: compiled scala in 1.8s
+2023.05.11 16:30:48 INFO  compiling scala (1 scala source)
+2023.05.11 16:30:48 INFO  time: compiled scala in 0.29s
+2023.05.11 16:30:50 INFO  compiling scala (1 scala source)
+2023.05.11 16:30:50 INFO  time: compiled scala in 0.17s
+2023.05.11 16:35:10 INFO  compiling scala (1 scala source)
+2023.05.11 16:35:10 INFO  time: compiled scala in 0.45s
+2023.05.11 16:39:42 INFO  Shutting down server
+2023.05.11 16:39:42 INFO  shutting down Metals
+2023.05.11 16:39:42 INFO  Shut down connection with build server.
+2023.05.11 16:39:42 INFO  Shut down connection with build server.
+2023.05.11 16:39:42 INFO  Exiting server
+2023.05.17 15:15:47 INFO  Started: Metals version 0.11.12 in workspace 'C:\Users\jerem\Desktop\HES\Semestre_6\Scala' for client Visual Studio Code 1.78.2.
+mai 17, 2023 3:15:47 PM org.flywaydb.core.internal.license.VersionPrinter printVersionOnly
+INFO: Flyway Community Edition 9.16.3 by Redgate
+mai 17, 2023 3:15:47 PM org.flywaydb.core.internal.license.VersionPrinter printVersion
+INFO: See release notes here: https://rd.gt/416ObMi
+mai 17, 2023 3:15:47 PM org.flywaydb.core.internal.license.VersionPrinter printVersion
+INFO: 
+mai 17, 2023 3:15:48 PM org.flywaydb.core.internal.database.base.BaseDatabaseType createDatabase
+INFO: Database: jdbc:h2:file:C:\Users\jerem\Desktop\HES\Semestre_6\Scala\.metals\metals (H2 2.1)
+mai 17, 2023 3:15:48 PM org.flywaydb.core.internal.command.DbValidate validate
+INFO: Successfully validated 4 migrations (execution time 00:00.038s)
+mai 17, 2023 3:15:48 PM org.flywaydb.core.internal.command.DbMigrate migrateGroup
+INFO: Current version of schema "PUBLIC": 4
+mai 17, 2023 3:15:48 PM org.flywaydb.core.internal.command.DbMigrate logSummary
+INFO: Schema "PUBLIC" is up to date. No migration necessary.
+2023.05.17 15:15:48 INFO  time: initialize in 1.05s
+2023.05.17 15:15:52 INFO  Attempting to connect to the build server...
+2023.05.17 15:15:52 INFO  skipping build import with status 'Installed'
+2023.05.17 15:15:52 INFO  Bloop uses C:\Program Files\Java\jdk-15.0.2 defined at C:\Users\jerem\.bloop\bloop.json
+2023.05.17 15:16:01 INFO  no build target found for C:\Users\jerem\Desktop\HES\Semestre_6\Scala\src\main\scala\RoomType.scala. Using presentation compiler with project's scala-library version: 3.2.2
+2023.05.17 15:16:03 INFO  time: code lens generation in 10s
+2023.05.17 15:16:06 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\jerem\Desktop\HES\Semestre_6\Scala\.metals\bsp.trace.json or C:\Users\jerem\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2023.05.17 15:16:06 INFO  Attempting to connect to the build server...
+2023.05.17 15:16:06 INFO  Bloop uses C:\Program Files\Java\jdk-15.0.2 defined at C:\Users\jerem\.bloop\bloop.json
+2023.05.17 15:16:06 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\jerem\Desktop\HES\Semestre_6\Scala\project\.metals\bsp.trace.json or C:\Users\jerem\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2023.05.17 15:16:06 INFO  time: Connected to build server in 15s
+2023.05.17 15:16:06 INFO  Connected to Build server: Bloop v1.5.6
+2023.05.17 15:16:06 INFO  time: Imported build in 0.28s
+2023.05.17 15:16:14 INFO  time: indexed workspace in 6.54s
+2023.05.17 15:16:15 INFO  compiling scala (1 scala source)
+2023.05.17 15:16:19 INFO  time: compiled scala in 4.26s
+2023.05.17 15:16:21 INFO  compiling scala (1 scala source)
+2023.05.17 15:16:23 INFO  time: compiled scala in 1.25s
+2023.05.17 15:16:25 INFO  compiling scala (1 scala source)
+2023.05.17 15:16:26 INFO  time: compiled scala in 1.09s
+2023.05.17 15:53:29 INFO  Bloop uses C:\Program Files\Java\jdk-15.0.2 defined at C:\Users\jerem\.bloop\bloop.json
+2023.05.17 15:53:29 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\jerem\Desktop\HES\Semestre_6\Scala\.metals\bsp.trace.json or C:\Users\jerem\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2023.05.17 15:53:29 INFO  Connected to Build server: Bloop v1.5.6
+2023.05.17 15:53:29 INFO  Bloop uses C:\Program Files\Java\jdk-15.0.2 defined at C:\Users\jerem\.bloop\bloop.json
+2023.05.17 15:53:29 INFO  Bloop uses C:\Program Files\Java\jdk-15.0.2 defined at C:\Users\jerem\.bloop\bloop.json
+2023.05.17 15:53:29 INFO  compiling scala (2 scala sources)
+2023.05.17 15:53:29 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\jerem\Desktop\HES\Semestre_6\Scala\project\.metals\bsp.trace.json or C:\Users\jerem\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2023.05.17 15:53:29 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\jerem\Desktop\HES\Semestre_6\Scala\project\.metals\bsp.trace.json or C:\Users\jerem\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2023.05.17 15:53:29 INFO  time: compiled scala in 0.51s
+2023.05.17 15:53:32 INFO  time: Imported build in 2.77s
+2023.05.17 15:53:36 INFO  time: indexed workspace in 3.88s
+2023.05.17 15:53:36 INFO  compiling scala (2 scala sources)
+2023.05.17 15:53:39 INFO  time: compiled scala in 3.24s
+2023.05.17 15:53:58 INFO  compiling scala (2 scala sources)
+2023.05.17 15:53:58 INFO  time: compiled scala in 0.28s
+2023.05.17 15:54:17 INFO  compiling scala (3 scala sources)
+2023.05.17 15:54:17 INFO  time: compiled scala in 0.42s
+Exception in thread "pool-7-thread-1" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:195)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:152)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+2023.05.17 16:04:59 INFO  compiling scala (3 scala sources)
+2023.05.17 16:04:59 INFO  time: compiled scala in 0.59s
+2023.05.17 16:08:56 INFO  compiling scala (3 scala sources)
+2023.05.17 16:08:56 INFO  time: compiled scala in 0.27s
+mai 17, 2023 4:08:58 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: NoDenotation.owner
+java.lang.AssertionError: NoDenotation.owner
+	at dotty.tools.dotc.core.SymDenotations$NoDenotation$.owner(SymDenotations.scala:2495)
+	at scala.meta.internal.pc.MetalsInteractive$.enclosingSymbolsWithExpressionType(MetalsInteractive.scala:261)
+	at scala.meta.internal.pc.HoverProvider$.hover(HoverProvider.scala:98)
+
+mai 17, 2023 4:09:10 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: NoDenotation.owner
+java.lang.AssertionError: NoDenotation.owner
+	at dotty.tools.dotc.core.SymDenotations$NoDenotation$.owner(SymDenotations.scala:2495)
+	at scala.meta.internal.pc.MetalsInteractive$.enclosingSymbolsWithExpressionType(MetalsInteractive.scala:261)
+	at scala.meta.internal.pc.HoverProvider$.hover(HoverProvider.scala:98)
+
+mai 17, 2023 4:11:47 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: NoDenotation.owner
+java.lang.AssertionError: NoDenotation.owner
+	at dotty.tools.dotc.core.SymDenotations$NoDenotation$.owner(SymDenotations.scala:2495)
+	at scala.meta.internal.pc.MetalsInteractive$.enclosingSymbolsWithExpressionType(MetalsInteractive.scala:261)
+	at scala.meta.internal.pc.HoverProvider$.hover(HoverProvider.scala:98)
+
+2023.05.17 16:13:57 INFO  compiling scala (3 scala sources)
+2023.05.17 16:13:57 INFO  time: compiled scala in 0.31s
+2023.05.17 16:15:47 INFO  compiling scala (3 scala sources)
+2023.05.17 16:15:47 INFO  time: compiled scala in 0.33s
+2023.05.17 16:16:02 INFO  compiling scala (3 scala sources)
+2023.05.17 16:16:02 INFO  time: compiled scala in 0.43s
+2023.05.17 16:16:05 INFO  compiling scala (3 scala sources)
+2023.05.17 16:16:05 INFO  time: compiled scala in 0.32s
+2023.05.17 16:19:51 INFO  compiling scala (4 scala sources)
+2023.05.17 16:19:51 INFO  time: compiled scala in 0.35s
+2023.05.17 16:19:53 INFO  compiling scala (4 scala sources)
+2023.05.17 16:19:53 INFO  time: compiled scala in 0.32s
+2023.05.17 16:19:56 INFO  compiling scala (4 scala sources)
+2023.05.17 16:19:56 INFO  time: compiled scala in 0.24s
+2023.05.17 16:19:58 INFO  compiling scala (4 scala sources)
+2023.05.17 16:19:58 INFO  time: compiled scala in 0.26s
+2023.05.17 16:20:59 INFO  time: code lens generation in 5.59s
+2023.05.17 16:20:59 INFO  time: code lens generation in 6.22s
+2023.05.17 16:20:59 INFO  time: code lens generation in 3.86s
+2023.05.17 16:27:57 INFO  compiling scala (9 scala sources)
+2023.05.17 16:27:57 INFO  time: compiled scala in 0.37s
+2023.05.17 16:27:59 INFO  compiling scala (9 scala sources)
+2023.05.17 16:27:59 INFO  time: compiled scala in 0.33s
+2023.05.17 16:28:07 INFO  compiling scala (9 scala sources)
+2023.05.17 16:28:07 INFO  time: compiled scala in 0.36s
+2023.05.17 16:28:10 INFO  compiling scala (9 scala sources)
+2023.05.17 16:28:10 INFO  time: compiled scala in 0.36s
+2023.05.17 16:28:39 INFO  compiling scala (9 scala sources)
+2023.05.17 16:28:39 INFO  time: compiled scala in 0.32s
+2023.05.17 16:28:41 INFO  compiling scala (9 scala sources)
+2023.05.17 16:28:41 INFO  time: compiled scala in 0.25s
+2023.05.17 16:28:47 INFO  compiling scala (9 scala sources)
+2023.05.17 16:28:47 INFO  time: compiled scala in 0.31s
+2023.05.17 16:28:50 INFO  compiling scala (9 scala sources)
+2023.05.17 16:28:50 INFO  time: compiled scala in 0.23s
+2023.05.17 16:28:53 INFO  compiling scala (9 scala sources)
+2023.05.17 16:28:53 INFO  time: compiled scala in 0.33s
+2023.05.17 16:28:55 INFO  compiling scala (9 scala sources)
+2023.05.17 16:28:55 INFO  time: compiled scala in 0.23s
+2023.05.17 16:30:12 INFO  compiling scala (8 scala sources)
+2023.05.17 16:30:12 INFO  time: compiled scala in 0.35s
+2023.05.17 16:30:18 INFO  compiling scala (9 scala sources)
+2023.05.17 16:30:18 INFO  time: compiled scala in 0.39s
+2023.05.17 16:30:21 INFO  compiling scala (9 scala sources)
+2023.05.17 16:30:21 INFO  time: compiled scala in 0.21s
+2023.05.17 16:30:24 INFO  compiling scala (9 scala sources)
+2023.05.17 16:30:24 INFO  time: compiled scala in 0.32s
+2023.05.17 16:33:17 INFO  compiling scala (9 scala sources)
+2023.05.17 16:33:17 INFO  time: compiled scala in 0.28s
+2023.05.17 16:33:35 INFO  compiling scala (9 scala sources)
+2023.05.17 16:33:35 INFO  time: compiled scala in 0.28s
+2023.05.17 16:33:51 INFO  compiling scala (10 scala sources)
+2023.05.17 16:33:51 INFO  time: compiled scala in 0.32s
+2023.05.17 16:33:53 INFO  compiling scala (10 scala sources)
+2023.05.17 16:33:53 INFO  time: compiled scala in 0.22s
+2023.05.17 16:33:55 INFO  compiling scala (10 scala sources)
+2023.05.17 16:33:55 INFO  time: compiled scala in 0.33s
+2023.05.17 16:33:59 INFO  compiling scala (9 scala sources)
+2023.05.17 16:33:59 INFO  time: compiled scala in 0.28s
+2023.05.17 16:34:02 INFO  compiling scala (9 scala sources)
+2023.05.17 16:34:02 INFO  time: compiled scala in 0.22s
+2023.05.17 16:34:38 INFO  compiling scala (10 scala sources)
+2023.05.17 16:34:38 INFO  time: compiled scala in 0.29s
+2023.05.17 16:34:40 INFO  compiling scala (10 scala sources)
+2023.05.17 16:34:40 INFO  time: compiled scala in 0.26s
+2023.05.17 16:34:49 INFO  compiling scala (10 scala sources)
+2023.05.17 16:34:49 INFO  time: compiled scala in 0.33s
+2023.05.17 16:34:52 INFO  compiling scala (10 scala sources)
+2023.05.17 16:34:52 INFO  time: compiled scala in 0.22s
+2023.05.17 16:34:59 INFO  compiling scala (10 scala sources)
+2023.05.17 16:34:59 INFO  time: compiled scala in 0.26s
+2023.05.17 16:35:06 INFO  compiling scala (10 scala sources)
+2023.05.17 16:35:06 INFO  time: compiled scala in 0.22s
+2023.05.17 16:35:25 INFO  compiling scala (10 scala sources)
+2023.05.17 16:35:25 INFO  time: compiled scala in 0.26s
+2023.05.17 16:35:40 INFO  compiling scala (10 scala sources)
+2023.05.17 16:35:41 INFO  time: compiled scala in 1.03s
+2023.05.17 16:35:49 INFO  compiling scala (10 scala sources)
+2023.05.17 16:35:49 INFO  time: compiled scala in 0.76s
+2023.05.17 16:36:05 WARN  Using indexes to guess the definition of minimumNights
+2023.05.17 16:36:08 INFO  compiling scala (10 scala sources)
+2023.05.17 16:36:09 WARN  Using indexes to guess the definition of calculatedHostListingsCount
+2023.05.17 16:36:08 INFO  time: compiled scala in 0.88s
+2023.05.17 16:36:25 INFO  compiling scala (10 scala sources)
+2023.05.17 16:36:25 INFO  time: compiled scala in 0.66s
+mai 17, 2023 4:36:53 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 819
+2023.05.17 16:36:56 INFO  compiling scala (10 scala sources)
+2023.05.17 16:36:56 INFO  time: compiled scala in 0.71s
+mai 17, 2023 4:41:02 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 934
+Exception in thread "pool-7-thread-2" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:195)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:152)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+2023.05.17 16:41:02 INFO  compiling scala (10 scala sources)
+mai 17, 2023 4:41:02 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 937
+2023.05.17 16:41:02 INFO  time: compiled scala in 0.89s
+2023.05.17 16:41:33 INFO  compiling scala (10 scala sources)
+2023.05.17 16:41:33 INFO  time: compiled scala in 0.71s
+2023.05.17 16:47:46 INFO  compiling scala (10 scala sources)
+2023.05.17 16:47:46 INFO  time: compiled scala in 0.55s
+2023.05.17 16:48:19 INFO  compiling scala (10 scala sources)
+2023.05.17 16:48:19 INFO  time: compiled scala in 0.25s
+mai 17, 2023 4:48:33 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1046
+2023.05.17 16:48:43 WARN  Using indexes to guess the definition of Location
+2023.05.17 16:48:45 INFO  compiling scala (10 scala sources)
+2023.05.17 16:48:45 INFO  time: compiled scala in 0.52s
+2023.05.17 16:49:46 INFO  compiling scala (10 scala sources)
+2023.05.17 16:49:46 INFO  time: compiled scala in 0.27s
+2023.05.17 16:52:31 INFO  compiling scala (10 scala sources)
+2023.05.17 16:52:31 INFO  time: compiled scala in 0.22s
+2023.05.17 16:52:34 INFO  compiling scala (10 scala sources)
+2023.05.17 16:52:34 INFO  time: compiled scala in 0.23s
+2023.05.17 16:52:36 INFO  compiling scala (10 scala sources)
+2023.05.17 16:52:36 INFO  time: compiled scala in 0.2s
+Exception in thread "pool-7-thread-3" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:195)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:152)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+Exception in thread "pool-7-thread-4" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:195)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:152)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+2023.05.17 16:56:00 INFO  compiling scala (10 scala sources)
+2023.05.17 16:56:00 INFO  time: compiled scala in 0.37s
+2023.05.17 16:56:03 INFO  compiling scala (10 scala sources)
+2023.05.17 16:56:03 INFO  time: compiled scala in 0.19s
+2023.05.17 16:56:05 INFO  compiling scala (10 scala sources)
+2023.05.17 16:56:05 INFO  time: compiled scala in 0.21s
+2023.05.17 16:56:30 INFO  compiling scala (10 scala sources)
+2023.05.17 16:56:30 INFO  time: compiled scala in 0.32s
+mai 17, 2023 4:57:01 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: NoDenotation.owner
+java.lang.AssertionError: NoDenotation.owner
+	at dotty.tools.dotc.core.SymDenotations$NoDenotation$.owner(SymDenotations.scala:2495)
+	at scala.meta.internal.pc.MetalsInteractive$.enclosingSymbolsWithExpressionType(MetalsInteractive.scala:261)
+	at scala.meta.internal.pc.HoverProvider$.hover(HoverProvider.scala:98)
+
+mai 17, 2023 4:57:03 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: NoDenotation.owner
+java.lang.AssertionError: NoDenotation.owner
+	at dotty.tools.dotc.core.SymDenotations$NoDenotation$.owner(SymDenotations.scala:2495)
+	at scala.meta.internal.pc.MetalsInteractive$.enclosingSymbolsWithExpressionType(MetalsInteractive.scala:261)
+	at scala.meta.internal.pc.MetalsInteractive$.enclosingSymbols(MetalsInteractive.scala:167)
+	at scala.meta.internal.pc.PcDefinitionProvider.findDefinitions(PcDefinitionProvider.scala:91)
+	at scala.meta.internal.pc.PcDefinitionProvider.definitions(PcDefinitionProvider.scala:56)
+	at scala.meta.internal.pc.PcDefinitionProvider.definitions(PcDefinitionProvider.scala:33)
+
+mai 17, 2023 4:57:04 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: NoDenotation.owner
+java.lang.AssertionError: NoDenotation.owner
+	at dotty.tools.dotc.core.SymDenotations$NoDenotation$.owner(SymDenotations.scala:2495)
+	at scala.meta.internal.pc.MetalsInteractive$.enclosingSymbolsWithExpressionType(MetalsInteractive.scala:261)
+	at scala.meta.internal.pc.MetalsInteractive$.enclosingSymbols(MetalsInteractive.scala:167)
+	at scala.meta.internal.pc.PcDefinitionProvider.findDefinitions(PcDefinitionProvider.scala:91)
+	at scala.meta.internal.pc.PcDefinitionProvider.definitions(PcDefinitionProvider.scala:56)
+	at scala.meta.internal.pc.PcDefinitionProvider.definitions(PcDefinitionProvider.scala:33)
+
+2023.05.17 16:57:12 INFO  compiling scala (10 scala sources)
+2023.05.17 16:57:12 INFO  time: compiled scala in 0.24s
+2023.05.17 16:57:18 INFO  Shutting down server
+2023.05.17 16:57:18 INFO  shutting down Metals
+2023.05.17 16:57:18 INFO  Shut down connection with build server.
+2023.05.17 16:57:18 INFO  Shut down connection with build server.
+2023.05.17 16:57:18 INFO  Exiting server
+2023.05.17 16:59:21 INFO  Started: Metals version 0.11.12 in workspace 'C:\Users\jerem\Desktop\HES\Semestre_6\Scala' for client Visual Studio Code 1.78.2.
+mai 17, 2023 4:59:21 PM org.flywaydb.core.internal.license.VersionPrinter printVersionOnly
+INFO: Flyway Community Edition 9.16.3 by Redgate
+mai 17, 2023 4:59:21 PM org.flywaydb.core.internal.license.VersionPrinter printVersion
+INFO: See release notes here: https://rd.gt/416ObMi
+mai 17, 2023 4:59:21 PM org.flywaydb.core.internal.license.VersionPrinter printVersion
+INFO: 
+mai 17, 2023 4:59:22 PM org.flywaydb.core.internal.database.base.BaseDatabaseType createDatabase
+INFO: Database: jdbc:h2:file:C:\Users\jerem\Desktop\HES\Semestre_6\Scala\.metals\metals (H2 2.1)
+mai 17, 2023 4:59:22 PM org.flywaydb.core.internal.command.DbValidate validate
+INFO: Successfully validated 4 migrations (execution time 00:00.039s)
+mai 17, 2023 4:59:22 PM org.flywaydb.core.internal.command.DbMigrate migrateGroup
+INFO: Current version of schema "PUBLIC": 4
+mai 17, 2023 4:59:22 PM org.flywaydb.core.internal.command.DbMigrate logSummary
+INFO: Schema "PUBLIC" is up to date. No migration necessary.
+2023.05.17 16:59:22 INFO  time: initialize in 0.83s
+2023.05.17 16:59:25 INFO  Attempting to connect to the build server...
+2023.05.17 16:59:25 INFO  Bloop uses C:\Program Files\Java\jdk-15.0.2 defined at C:\Users\jerem\.bloop\bloop.json
+2023.05.17 16:59:25 INFO  skipping build import with status 'Installed'
+2023.05.17 16:59:25 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\jerem\Desktop\HES\Semestre_6\Scala\.metals\bsp.trace.json or C:\Users\jerem\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2023.05.17 16:59:25 INFO  Attempting to connect to the build server...
+2023.05.17 16:59:25 INFO  Bloop uses C:\Program Files\Java\jdk-15.0.2 defined at C:\Users\jerem\.bloop\bloop.json
+2023.05.17 16:59:25 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\jerem\Desktop\HES\Semestre_6\Scala\project\.metals\bsp.trace.json or C:\Users\jerem\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2023.05.17 16:59:25 INFO  time: Connected to build server in 0.33s
+2023.05.17 16:59:25 INFO  Connected to Build server: Bloop v1.5.6
+2023.05.17 16:59:25 INFO  time: Imported build in 0.1s
+2023.05.17 16:59:32 INFO  time: indexed workspace in 6.54s
+2023.05.17 16:59:32 INFO  compiling scala (10 scala sources)
+2023.05.17 16:59:36 INFO  time: compiled scala in 3.79s
+2023.05.17 16:59:36 INFO  compiling scala (10 scala sources)
+2023.05.17 16:59:36 INFO  time: compiled scala in 0.24s
+2023.05.17 16:59:38 INFO  compiling scala (10 scala sources)
+2023.05.17 16:59:38 INFO  time: compiled scala in 0.26s
+2023.05.17 17:00:09 INFO  compiling scala (10 scala sources)
+2023.05.17 17:00:09 INFO  time: compiled scala in 0.2s
+Exception in thread "pool-4-thread-1" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:195)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:152)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+2023.05.17 17:01:58 WARN  Using indexes to guess the definition of roomType
+2023.05.17 17:01:58 INFO  compiling scala (10 scala sources)
+2023.05.17 17:01:58 INFO  time: compiled scala in 0.29s
+mai 17, 2023 5:01:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 35
+2023.05.17 17:02:02 INFO  compiling scala (10 scala sources)
+2023.05.17 17:02:02 INFO  time: compiled scala in 0.31s
+2023.05.17 17:02:08 INFO  compiling scala (10 scala sources)
+2023.05.17 17:02:08 INFO  time: compiled scala in 0.25s
+2023.05.17 17:04:23 INFO  compiling scala (10 scala sources)
+2023.05.17 17:04:23 INFO  time: compiled scala in 0.21s
+2023.05.17 17:05:14 INFO  compiling scala (10 scala sources)
+2023.05.17 17:05:14 INFO  time: compiled scala in 0.22s
+2023.05.17 17:05:17 INFO  compiling scala (10 scala sources)
+2023.05.17 17:05:17 INFO  time: compiled scala in 0.23s
+2023.05.17 17:05:26 INFO  compiling scala (10 scala sources)
+2023.05.17 17:05:26 INFO  time: compiled scala in 0.15s
+2023.05.17 17:05:28 INFO  compiling scala (10 scala sources)
+2023.05.17 17:05:28 INFO  time: compiled scala in 0.16s
+Exception in thread "pool-4-thread-2" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:195)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:152)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+Exception in thread "pool-4-thread-3" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:195)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:152)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+2023.05.17 17:05:30 WARN  Using indexes to guess the definition of numberOfReviews
+2023.05.17 17:05:54 INFO  compiling scala (10 scala sources)
+2023.05.17 17:05:54 INFO  time: compiled scala in 0.21s
+2023.05.17 17:06:06 INFO  compiling scala (10 scala sources)
+2023.05.17 17:06:06 INFO  time: compiled scala in 0.26s
+2023.05.17 17:06:16 INFO  compiling scala (10 scala sources)
+2023.05.17 17:06:21 INFO  time: compiled scala in 4.76s
+2023.05.17 17:07:43 ERROR searching for `models/CsvLoader.loadCsv().$anonfun().roomType.` failed
+java.nio.file.NoSuchFileException: C:\Users\jerem\Desktop\HES\Semestre_6\Scala\src\main\scala\CsvLoader.scala
+	at sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:85)
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103)
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108)
+	at sun.nio.fs.WindowsFileSystemProvider.newByteChannel(WindowsFileSystemProvider.java:235)
+	at java.nio.file.Files.newByteChannel(Files.java:375)
+	at java.nio.file.Files.newByteChannel(Files.java:426)
+	at java.nio.file.Files.readAllBytes(Files.java:3272)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:45)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:24)
+	at scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionAbsolutePath.toInput(ScalametaCommonEnrichments.scala:380)
+	at scala.meta.internal.mtags.SymbolIndexBucket.addMtagsSourceFile(SymbolIndexBucket.scala:248)
+	at scala.meta.internal.mtags.SymbolIndexBucket.$anonfun$query0$1(SymbolIndexBucket.scala:184)
+	at scala.meta.internal.mtags.SymbolIndexBucket.$anonfun$query0$1$adapted(SymbolIndexBucket.scala:184)
+	at scala.collection.immutable.Set$Set2.foreach(Set.scala:201)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query0(SymbolIndexBucket.scala:184)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query(SymbolIndexBucket.scala:158)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.$anonfun$findSymbolDefinition$1(OnDemandSymbolIndex.scala:139)
+	at scala.collection.immutable.List.flatMap(List.scala:293)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.findSymbolDefinition(OnDemandSymbolIndex.scala:139)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.definition(OnDemandSymbolIndex.scala:46)
+	at scala.meta.internal.metals.Docstrings.indexSymbol(Docstrings.scala:104)
+	at scala.meta.internal.metals.Docstrings.documentation(Docstrings.scala:44)
+	at scala.meta.internal.metals.MetalsSymbolSearch.documentation(MetalsSymbolSearch.scala:42)
+	at scala.meta.internal.mtags.MtagsEnrichments$.symbolDocumentation(MtagsEnrichments.scala:189)
+	at scala.meta.internal.pc.HoverProvider$.$anonfun$1(HoverProvider.scala:126)
+	at scala.collection.immutable.List.flatMap(List.scala:293)
+	at scala.meta.internal.pc.HoverProvider$.hover(HoverProvider.scala:126)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.hover$$anonfun$1(ScalaPresentationCompiler.scala:311)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.withNonInterruptableCompiler$$anonfun$1(CompilerAccess.scala:125)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:152)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	at java.lang.Thread.run(Thread.java:832)
+
+mai 17, 2023 5:07:43 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: NoDenotation.owner
+java.lang.AssertionError: NoDenotation.owner
+	at dotty.tools.dotc.core.SymDenotations$NoDenotation$.owner(SymDenotations.scala:2495)
+	at scala.meta.internal.pc.MetalsInteractive$.enclosingSymbolsWithExpressionType(MetalsInteractive.scala:261)
+	at scala.meta.internal.pc.MetalsInteractive$.enclosingSymbols(MetalsInteractive.scala:167)
+	at scala.meta.internal.pc.PcDefinitionProvider.findDefinitions(PcDefinitionProvider.scala:91)
+	at scala.meta.internal.pc.PcDefinitionProvider.definitions(PcDefinitionProvider.scala:56)
+	at scala.meta.internal.pc.PcDefinitionProvider.definitions(PcDefinitionProvider.scala:33)
+
+mai 17, 2023 5:07:45 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: NoDenotation.owner
+java.lang.AssertionError: NoDenotation.owner
+	at dotty.tools.dotc.core.SymDenotations$NoDenotation$.owner(SymDenotations.scala:2495)
+	at scala.meta.internal.pc.MetalsInteractive$.enclosingSymbolsWithExpressionType(MetalsInteractive.scala:261)
+	at scala.meta.internal.pc.MetalsInteractive$.enclosingSymbols(MetalsInteractive.scala:167)
+	at scala.meta.internal.pc.PcDefinitionProvider.findDefinitions(PcDefinitionProvider.scala:91)
+	at scala.meta.internal.pc.PcDefinitionProvider.definitions(PcDefinitionProvider.scala:56)
+	at scala.meta.internal.pc.PcDefinitionProvider.definitions(PcDefinitionProvider.scala:33)
+
+mai 17, 2023 5:07:59 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 232
+2023.05.17 17:08:03 INFO  Deduplicating compilation of scala from bsp client 'Metals 0.11.12' (since 8m 37.985s)
+2023.05.17 17:12:44 INFO  compiling scala (1 scala source)
+2023.05.17 17:12:44 INFO  time: compiled scala in 0.46s
+2023.05.17 17:13:17 INFO  compiling scala (1 scala source)
+2023.05.17 17:13:17 WARN  Could not load snapshot text for C:\Users\jerem\Desktop\HES\Semestre_6\Scala\src\main\scala\Demo.scala
+2023.05.17 17:13:17 INFO  time: compiled scala in 0.54s
+2023.05.17 17:14:35 INFO  time: code lens generation in 4.52s
+2023.05.17 17:14:35 INFO  time: code lens generation in 2.46s
+mai 17, 2023 5:28:54 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: NoDenotation.owner
+java.lang.AssertionError: NoDenotation.owner
+	at dotty.tools.dotc.core.SymDenotations$NoDenotation$.owner(SymDenotations.scala:2495)
+	at scala.meta.internal.pc.MetalsInteractive$.enclosingSymbolsWithExpressionType(MetalsInteractive.scala:261)
+	at scala.meta.internal.pc.MetalsInteractive$.enclosingSymbols(MetalsInteractive.scala:167)
+	at scala.meta.internal.pc.PcDefinitionProvider.findDefinitions(PcDefinitionProvider.scala:91)
+	at scala.meta.internal.pc.PcDefinitionProvider.definitions(PcDefinitionProvider.scala:56)
+	at scala.meta.internal.pc.PcDefinitionProvider.definitions(PcDefinitionProvider.scala:33)
+
+2023.05.17 17:31:00 ERROR searching for `models/CsvLoader.loadCsv().$anonfun().(row)` failed
+java.nio.file.NoSuchFileException: C:\Users\jerem\Desktop\HES\Semestre_6\Scala\src\main\scala\CsvLoader.scala
+	at sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:85)
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103)
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108)
+	at sun.nio.fs.WindowsFileSystemProvider.newByteChannel(WindowsFileSystemProvider.java:235)
+	at java.nio.file.Files.newByteChannel(Files.java:375)
+	at java.nio.file.Files.newByteChannel(Files.java:426)
+	at java.nio.file.Files.readAllBytes(Files.java:3272)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:45)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:24)
+	at scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionAbsolutePath.toInput(ScalametaCommonEnrichments.scala:380)
+	at scala.meta.internal.mtags.SymbolIndexBucket.addMtagsSourceFile(SymbolIndexBucket.scala:248)
+	at scala.meta.internal.mtags.SymbolIndexBucket.$anonfun$query0$1(SymbolIndexBucket.scala:184)
+	at scala.meta.internal.mtags.SymbolIndexBucket.$anonfun$query0$1$adapted(SymbolIndexBucket.scala:184)
+	at scala.collection.immutable.Set$Set2.foreach(Set.scala:201)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query0(SymbolIndexBucket.scala:184)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query(SymbolIndexBucket.scala:158)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.$anonfun$findSymbolDefinition$1(OnDemandSymbolIndex.scala:139)
+	at scala.collection.immutable.List.flatMap(List.scala:293)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.findSymbolDefinition(OnDemandSymbolIndex.scala:139)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.definition(OnDemandSymbolIndex.scala:46)
+	at scala.meta.internal.metals.Docstrings.indexSymbol(Docstrings.scala:104)
+	at scala.meta.internal.metals.Docstrings.documentation(Docstrings.scala:44)
+	at scala.meta.internal.metals.MetalsSymbolSearch.documentation(MetalsSymbolSearch.scala:42)
+	at scala.meta.internal.mtags.MtagsEnrichments$.symbolDocumentation(MtagsEnrichments.scala:189)
+	at scala.meta.internal.pc.HoverProvider$.$anonfun$1(HoverProvider.scala:126)
+	at scala.collection.immutable.List.flatMap(List.scala:293)
+	at scala.meta.internal.pc.HoverProvider$.hover(HoverProvider.scala:126)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.hover$$anonfun$1(ScalaPresentationCompiler.scala:311)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.withNonInterruptableCompiler$$anonfun$1(CompilerAccess.scala:125)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:152)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	at java.lang.Thread.run(Thread.java:832)
+
+2023.05.17 17:31:01 ERROR searching for `models/CsvLoader.loadCsv().$anonfun().location.` failed
+java.nio.file.NoSuchFileException: C:\Users\jerem\Desktop\HES\Semestre_6\Scala\src\main\scala\CsvLoader.scala
+	at sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:85)
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103)
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108)
+	at sun.nio.fs.WindowsFileSystemProvider.newByteChannel(WindowsFileSystemProvider.java:235)
+	at java.nio.file.Files.newByteChannel(Files.java:375)
+	at java.nio.file.Files.newByteChannel(Files.java:426)
+	at java.nio.file.Files.readAllBytes(Files.java:3272)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:45)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:24)
+	at scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionAbsolutePath.toInput(ScalametaCommonEnrichments.scala:380)
+	at scala.meta.internal.mtags.SymbolIndexBucket.addMtagsSourceFile(SymbolIndexBucket.scala:248)
+	at scala.meta.internal.mtags.SymbolIndexBucket.$anonfun$query0$1(SymbolIndexBucket.scala:184)
+	at scala.meta.internal.mtags.SymbolIndexBucket.$anonfun$query0$1$adapted(SymbolIndexBucket.scala:184)
+	at scala.collection.immutable.Set$Set2.foreach(Set.scala:201)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query0(SymbolIndexBucket.scala:184)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query(SymbolIndexBucket.scala:158)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.$anonfun$findSymbolDefinition$1(OnDemandSymbolIndex.scala:139)
+	at scala.collection.immutable.List.flatMap(List.scala:293)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.findSymbolDefinition(OnDemandSymbolIndex.scala:139)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.definition(OnDemandSymbolIndex.scala:46)
+	at scala.meta.internal.metals.Docstrings.indexSymbol(Docstrings.scala:104)
+	at scala.meta.internal.metals.Docstrings.documentation(Docstrings.scala:44)
+	at scala.meta.internal.metals.MetalsSymbolSearch.documentation(MetalsSymbolSearch.scala:42)
+	at scala.meta.internal.mtags.MtagsEnrichments$.symbolDocumentation(MtagsEnrichments.scala:189)
+	at scala.meta.internal.pc.HoverProvider$.$anonfun$1(HoverProvider.scala:126)
+	at scala.collection.immutable.List.flatMap(List.scala:293)
+	at scala.meta.internal.pc.HoverProvider$.hover(HoverProvider.scala:126)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.hover$$anonfun$1(ScalaPresentationCompiler.scala:311)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.withNonInterruptableCompiler$$anonfun$1(CompilerAccess.scala:125)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:152)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	at java.lang.Thread.run(Thread.java:832)
+
+2023.05.17 17:31:06 ERROR searching for `models/CsvLoader.loadCsv().reader.` failed
+java.nio.file.NoSuchFileException: C:\Users\jerem\Desktop\HES\Semestre_6\Scala\src\main\scala\CsvLoader.scala
+	at sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:85)
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103)
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108)
+	at sun.nio.fs.WindowsFileSystemProvider.newByteChannel(WindowsFileSystemProvider.java:235)
+	at java.nio.file.Files.newByteChannel(Files.java:375)
+	at java.nio.file.Files.newByteChannel(Files.java:426)
+	at java.nio.file.Files.readAllBytes(Files.java:3272)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:45)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:24)
+	at scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionAbsolutePath.toInput(ScalametaCommonEnrichments.scala:380)
+	at scala.meta.internal.mtags.SymbolIndexBucket.addMtagsSourceFile(SymbolIndexBucket.scala:248)
+	at scala.meta.internal.mtags.SymbolIndexBucket.$anonfun$query0$1(SymbolIndexBucket.scala:184)
+	at scala.meta.internal.mtags.SymbolIndexBucket.$anonfun$query0$1$adapted(SymbolIndexBucket.scala:184)
+	at scala.collection.immutable.Set$Set2.foreach(Set.scala:201)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query0(SymbolIndexBucket.scala:184)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query(SymbolIndexBucket.scala:158)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.$anonfun$findSymbolDefinition$1(OnDemandSymbolIndex.scala:139)
+	at scala.collection.immutable.List.flatMap(List.scala:293)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.findSymbolDefinition(OnDemandSymbolIndex.scala:139)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.definition(OnDemandSymbolIndex.scala:46)
+	at scala.meta.internal.metals.Docstrings.indexSymbol(Docstrings.scala:104)
+	at scala.meta.internal.metals.Docstrings.documentation(Docstrings.scala:44)
+	at scala.meta.internal.metals.MetalsSymbolSearch.documentation(MetalsSymbolSearch.scala:42)
+	at scala.meta.internal.mtags.MtagsEnrichments$.symbolDocumentation(MtagsEnrichments.scala:189)
+	at scala.meta.internal.pc.HoverProvider$.$anonfun$1(HoverProvider.scala:126)
+	at scala.collection.immutable.List.flatMap(List.scala:293)
+	at scala.meta.internal.pc.HoverProvider$.hover(HoverProvider.scala:126)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.hover$$anonfun$1(ScalaPresentationCompiler.scala:311)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.withNonInterruptableCompiler$$anonfun$1(CompilerAccess.scala:125)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:152)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	at java.lang.Thread.run(Thread.java:832)
+
+2023.05.17 17:31:38 INFO  compiling scala (1 scala source)
+2023.05.17 17:31:38 INFO  time: compiled scala in 0.66s
+2023.05.17 17:34:08 INFO  compiling scala (1 scala source)
+2023.05.17 17:34:08 INFO  Deduplicating compilation of scala from bsp client 'Metals 0.11.12' (since 34m 43.217s)
+2023.05.17 17:34:08 INFO  compiling scala (1 scala source)
+2023.05.17 17:34:08 INFO  time: compiled scala in 0.42s
+2023.05.17 17:36:33 INFO  compiling scala (1 scala source)
+2023.05.17 17:36:33 INFO  time: compiled scala in 0.51s
+2023.05.17 17:37:09 INFO  Shutting down server
+2023.05.17 17:37:09 INFO  shutting down Metals
+2023.05.17 17:37:09 INFO  Shut down connection with build server.
+2023.05.17 17:37:09 INFO  Shut down connection with build server.
+2023.05.17 17:37:09 INFO  Exiting server
+2023.05.17 17:39:19 INFO  Started: Metals version 0.11.12 in workspace 'C:\Users\jerem\Desktop\HES\Semestre_6\Scala' for client Visual Studio Code 1.78.2.
+mai 17, 2023 5:39:19 PM org.flywaydb.core.internal.license.VersionPrinter printVersionOnly
+INFO: Flyway Community Edition 9.16.3 by Redgate
+mai 17, 2023 5:39:19 PM org.flywaydb.core.internal.license.VersionPrinter printVersion
+INFO: See release notes here: https://rd.gt/416ObMi
+mai 17, 2023 5:39:19 PM org.flywaydb.core.internal.license.VersionPrinter printVersion
+INFO: 
+mai 17, 2023 5:39:20 PM org.flywaydb.core.internal.database.base.BaseDatabaseType createDatabase
+INFO: Database: jdbc:h2:file:C:\Users\jerem\Desktop\HES\Semestre_6\Scala\.metals\metals (H2 2.1)
+mai 17, 2023 5:39:20 PM org.flywaydb.core.internal.command.DbValidate validate
+INFO: Successfully validated 4 migrations (execution time 00:00.031s)
+mai 17, 2023 5:39:20 PM org.flywaydb.core.internal.command.DbMigrate migrateGroup
+INFO: Current version of schema "PUBLIC": 4
+mai 17, 2023 5:39:20 PM org.flywaydb.core.internal.command.DbMigrate logSummary
+INFO: Schema "PUBLIC" is up to date. No migration necessary.
+2023.05.17 17:39:20 INFO  time: initialize in 1s
+2023.05.17 17:39:23 INFO  Attempting to connect to the build server...
+2023.05.17 17:39:23 INFO  Bloop uses C:\Program Files\Java\jdk-15.0.2 defined at C:\Users\jerem\.bloop\bloop.json
+2023.05.17 17:39:23 INFO  skipping build import with status 'Installed'
+2023.05.17 17:39:23 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\jerem\Desktop\HES\Semestre_6\Scala\.metals\bsp.trace.json or C:\Users\jerem\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2023.05.17 17:39:23 INFO  Attempting to connect to the build server...
+2023.05.17 17:39:23 INFO  Bloop uses C:\Program Files\Java\jdk-15.0.2 defined at C:\Users\jerem\.bloop\bloop.json
+2023.05.17 17:39:23 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\jerem\Desktop\HES\Semestre_6\Scala\project\.metals\bsp.trace.json or C:\Users\jerem\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2023.05.17 17:39:23 INFO  time: Connected to build server in 0.4s
+2023.05.17 17:39:23 INFO  Connected to Build server: Bloop v1.5.6
+2023.05.17 17:39:24 INFO  time: Imported build in 0.14s
+2023.05.17 17:39:32 INFO  time: indexed workspace in 8.47s

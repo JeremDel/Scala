@@ -1,0 +1,3 @@
+Symbol: models/CsvLoader.loadCsv().$anonfun().roomType.
+Error message: models/CsvLoader.loadCsv().$anonfun().roomType.
+Error: scala.meta.internal.mtags.IndexingExceptions$InvalidSymbolException: models/CsvLoader.loadCsv().$anonfun().roomType.
