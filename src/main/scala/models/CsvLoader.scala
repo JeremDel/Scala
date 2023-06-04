@@ -6,7 +6,7 @@ import models.{Host, Location, RoomType, EntireHome, PrivateRoom, Coordinate}
 
 object CsvLoader {
   def loadCsv(): List[Listing] = {
-    val file = new File("Data\\12-AirBnBLondon.csv")
+    val file = new File("Data/12-AirBnBLondon.csv")
     val reader = CSVReader.open(file)
     val rows = reader.allWithHeaders()
     reader.close()
@@ -17,24 +17,26 @@ object CsvLoader {
       val coordinate = Coordinate(row("latitude").toDouble, row("longitude").toDouble)
       val location = Location(row.get("neighbourhood_group"), row("neighbourhood"), coordinate)
      
-     // Determining the room type based on the value in the "room_type" column
+    // Determining the room type based on the value in the "room_type" column
       val roomType = row("room_type") match {
         case "Entire home/apt" => EntireHome
         case "Private room" => PrivateRoom
-        case _ => throw new IllegalArgumentException("Invalid room type")
+        case "Hotel room" => HotelRoom
+        case _ => UnknownRoom
       }
-      // Creating a Listing object with the parsed values
+      
+    // Creating a Listing object with the parsed values
       Listing(
-        id = row("id").toInt,
+        id = row("id").toLong,
         name = row("name"),
         host = host,
         location = location,
         roomType = roomType,
-        price = row("price").toDouble,
+        price = row.get("price").filter(_.nonEmpty).map(_.toDouble).getOrElse(0.0),
         minimumNights = row("minimum_nights").toInt,
         numberOfReviews = row("number_of_reviews").toInt,
         lastReview = row.get("last_review"),
-        reviewsPerMonth = row.get("reviews_per_month").map(_.toDouble).getOrElse(0.0),
+        reviewsPerMonth = row.get("reviews_per_month").filter(_.nonEmpty).map(_.toDouble).getOrElse(0.0),
         calculatedHostListingsCount = row("calculated_host_listings_count").toInt,
         availability_365 = row("availability_365").toInt,
         numberOfReviewsLtm = row("number_of_reviews_ltm").toInt,
